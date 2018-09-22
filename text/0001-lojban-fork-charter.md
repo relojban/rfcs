@@ -1,6 +1,6 @@
-- Feature Name: lojban-fork-charter
+- Feature Name: `lojban-fork-charter`
 - Start Date: 2018-04-22
-- RFC pull request:
+- RFC pull request: [relojban/rfcs#1](https://github.com/relojban/rfcs/pull/1)
 
 # A Charter for a Lojban Fork
 
